@@ -1,2 +1,4 @@
 # Snappy
-Snappy is a Spark based Database that make a blend with OLAP and OLTP Database Execution Scenarios.
+SnappyDashboard is a SnappyData Operation Manager, that manage SnappyData In-Memory Database Cluster. Edit
+Add topics
+
